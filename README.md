@@ -112,6 +112,13 @@ AppRegistry.registerComponent('App', () => App);
 | styleText | object |  null | Styles to be applied on text inside of 'Option'  |
 
 
+##### OptionList:
+
+| Property | Type | Default | Description |
+|-----------|--------|---------|--------------------------------------------|
+| overlayStyles | object | null | Styles to be applied on 'overlay' backdrop |
+
+
 ## Demo
 #####  IOS and Android:
 <p align="center">
