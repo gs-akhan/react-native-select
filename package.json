@@ -1,0 +1,28 @@
+{
+  "name": "react-native-dropdown",
+  "version": "0.0.1",
+  "description": "A better Select dropdown menu for react-native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gs-akhan/react-native-select.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "react-native-dropdown"
+  ],
+  "author": {
+    "name": "akhan",
+    "email": "azhar.mw@gmail.com",
+    "url": "https://github.com/gs-akhan"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gs-akhan/react-native-select/issues"
+  },
+  "homepage": "https://github.com/gs-akhan/react-native-select"
+}
