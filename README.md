@@ -113,12 +113,12 @@ For complete implementation checkout example folder.
 
 
 ## Demo
- #### IOS
+#####  IOS:
 <p align="center">
     <img src ="https://github.com/gs-akhan/react-native-select/blob/master/dropdown.gif" />
 </p>
 
- #### Android
+#####  Android:
 <p align="center">
     <img src ="https://github.com/gs-akhan/react-native-select/blob/master/dropdown-android.gif" />
 </p>
