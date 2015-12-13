@@ -113,6 +113,12 @@ For complete implementation checkout example folder.
 
 
 ## Demo
+ #### IOS
 <p align="center">
-    <img src ="https://raw.githubusercontent.com/alinz/react-native-dropdown/master/dropdown.gif" />
+    <img src ="https://github.com/gs-akhan/react-native-select/blob/master/dropdown.gif" />
+</p>
+
+ #### Android
+<p align="center">
+    <img src ="https://github.com/gs-akhan/react-native-select/blob/master/dropdown-android.gif" />
 </p>
