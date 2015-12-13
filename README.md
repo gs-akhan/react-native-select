@@ -1,13 +1,13 @@
-# React Native Dropdown
+# React Native Selectme
 Simple DropDown menu for React Native App! Your Select Tag for React Native. 
 
 ## Introduction
 
-React Native Select is simple, customizable and easy to use dropdown in React Native. It has been tested on both Android and IOS and works like a charm. 
+React Native Selectme is simple, customizable and easy to use dropdown in React Native. It has been tested on both Android and IOS and works like a charm. 
 
 ## Installation
 ```
-npm i react-native-select --save
+npm i react-native-selectme --save
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ var {
   View,
 } = React;
 
-const DropDown = require('react-native-select');
+const DropDown = require('react-native-selectme');
 const {
   Select,
   Option,
