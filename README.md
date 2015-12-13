@@ -115,6 +115,5 @@ AppRegistry.registerComponent('App', () => App);
 ## Demo
 #####  IOS and Android:
 <p align="center">
-    <img src ="https://github.com/gs-akhan/react-native-select/blob/master/dropdown.gif" />
-    <img src ="https://github.com/gs-akhan/react-native-select/blob/master/dropdown-android.gif" />
+    <img src ="https://raw.githubusercontent.com/gs-akhan/react-native-select/master/dropdown.gif" />
 </p>
