@@ -92,7 +92,6 @@ AppRegistry.registerComponent('App', () => App);
 
 
 ```
-For complete implementation checkout example folder. 
 
 ### Configuration
 
