@@ -18,21 +18,19 @@ Require it inside your Javascript files. Also supporting components using object
 
 ## Example
 
-```
-var React = require('react-native');
-var {
+```jsx
+import React, {
   Component,
   AppRegistry,
   Text,
   View,
-} = React;
+} from 'react-native';
 
-const DropDown = require('react-native-selectme');
-const {
+import DropDown, {
   Select,
   Option,
-  OptionList
-} = DropDown;
+  OptionList,
+} from 'react-native-selectme';
 
 class App extends Component {
   constructor(props) {
