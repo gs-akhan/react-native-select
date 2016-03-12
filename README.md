@@ -48,7 +48,7 @@ class App extends Component {
   
   _canada(province) {
 
-	this.setState({
+  this.setState({
       ...this.state,
       canada: province
     });
@@ -63,7 +63,7 @@ class App extends Component {
             optionListRef={this._getOptionList.bind(this)}
             defaultValue="Select a Province in Canada ..."
             onSelect={this._canada.bind(this)}>
-            <Option>Alberta</Option>
+            <Option value = {{id : "alberta"}}>Alberta</Option>
             <Option>British Columbia</Option>
             <Option>Manitoba</Option>
             <Option>New Brunswick</Option>
@@ -97,6 +97,7 @@ AppRegistry.registerComponent('App', () => App);
 | Property | Type | Default | Description |
 |---------------|----------|--------------|----------------------------------------------------------------|
 | width | number | 400 | Width of the selection |
+| onSelect | function(text, value) | null | function to be invoked when option is selected |
 | height | number | 50 | Height of the selection |
 | optionListRef | function | required | Reference to ```<OptionList />``` to display the selection menu |
 | style | object | null | Custom styles to be applied if supplied |
@@ -106,6 +107,7 @@ AppRegistry.registerComponent('App', () => App);
 
 | Property | Type | Default | Description |
 |-----------|--------|---------|--------------------------------------------|
+| value | any |  null | value will be passed on callback `onSelect` as second argument  |
 | style | object | null | Styles to be applied on 'Option' component |
 | styleText | object |  null | Styles to be applied on text inside of 'Option'  |
 
