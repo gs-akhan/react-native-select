@@ -125,6 +125,5 @@ AppRegistry.registerComponent('App', () => App);
     <img src ="https://raw.githubusercontent.com/gs-akhan/react-native-select/master/dropdown-both.gif" />
 </p>
 
-
 ## Contributions
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
