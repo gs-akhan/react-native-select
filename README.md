@@ -1,5 +1,12 @@
+
 # React Native Selectme
 Simple DropDown menu for React Native App! Your Select Tag for React Native. 
+
+
+## Alternatives :
+
+[react-native-chooser](https://github.com/gs-akhan/react-native-chooser) : This is an upgraded and simple-to-use API. You can customize it to fullest.
+
 
 ## Introduction
 
