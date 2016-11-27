@@ -103,6 +103,9 @@ AppRegistry.registerComponent('App', () => App);
 | style | object | null | Custom styles to be applied if supplied |
 | defaultValue | string | first option | The value to be displayed if none of the options are selected. |
 
+```blur()``` : close the select by calling blur ```this.refs.SELECT1.blur();```
+
+
 ##### Option:
 
 | Property | Type | Default | Description |

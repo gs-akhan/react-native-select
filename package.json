@@ -1,6 +1,6 @@
 {
   "name": "react-native-selectme",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A better Select dropdown menu for react-native",
   "main": "lib/index.js",
   "scripts": {
