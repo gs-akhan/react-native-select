@@ -127,7 +127,7 @@ AppRegistry.registerComponent('App', () => App);
 | Property | Type | Default | Description |
 |-----------|--------|---------|--------------------------------------------|
 | overlayStyles | object | null | Styles to be applied on 'overlay' backdrop |
-| itemsStyles | object | null | Styles to be applied on 'overlay' backdrop |
+| itemsStyles | object | null | Styles to be applied on 'items' dropdown |
 
 
 ## Demo
